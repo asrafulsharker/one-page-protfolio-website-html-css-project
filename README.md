@@ -11,7 +11,7 @@ This project is for html &amp; css practice
 
 ## Similar Projects/turorials
 
- - [Amy's Portfolio - (html, css project)](https://github.com/asrafulsharker/one-page-protfolio-website-html-css-project)
+ - [Asraful Portfolio - (html, css project)](https://github.com/asrafulsharker/one-page-protfolio-website-html-css-project)
 
   
 
