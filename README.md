@@ -1,5 +1,6 @@
 # One page Portfolio Website (HTML CSS Project for Ppractice)
-![Uploading Screenshot 2022-01-31 111713.png…]()
+![Screenshot 2022-01-31 111713](https://user-images.githubusercontent.com/64266026/151742657-6300dda3-8b59-461f-a3f2-3a88f78aadfd.png)
+
 
 
 
@@ -18,6 +19,4 @@ This project is for html &amp; css practice
 Thanks, Asraful
 
 
-#� �o�n�e�-�p�a�g�e�-�p�r�o�t�f�o�l�i�o�-�w�e�b�s�i�t�e�-�h�t�m�l�-�c�s�s�-�p�r�o�j�e�c�t�
-�
-�
+
